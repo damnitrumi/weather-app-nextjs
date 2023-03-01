@@ -1,0 +1,106 @@
+// Vitest Snapshot v1
+
+exports[`<DetailedData /> > should match snapshot 1`] = `
+.c0 {
+  padding: 20px;
+  min-width: 200px;
+  -webkit-backdrop-filter: blur(10px) saturate(180%);
+  backdrop-filter: blur(10px) saturate(180%);
+  -webkit-backdrop-filter: blur(10px) saturate(180%);
+}
+
+@media (min-width:1024px) {
+  .c0 {
+    padding: 40px;
+  }
+}
+
+<section
+  class="c0"
+>
+  <h1
+    class="text-white font-bold mb-8 text-[1.8rem] lg:text-[2.4rem]"
+  >
+    Weather Details:
+  </h1>
+  <ul
+    class="list-none flex flex-col gap-1"
+  >
+    <li
+      class="flex justify-between text-gray-300"
+    >
+      <span
+        class="text-[1.4rem] lg:text-[1.6rem]"
+      >
+        Max Temperature
+      </span>
+      <span
+        class="text-white text-[1.4rem] lg:text-[1.6rem]"
+      >
+        1
+        °
+      </span>
+    </li>
+    <li
+      class="flex justify-between text-gray-300"
+    >
+      <span
+        class="text-[1.4rem] lg:text-[1.6rem]"
+      >
+        Min Temperature
+      </span>
+      <span
+        class="text-white text-[1.4rem] lg:text-[1.6rem]"
+      >
+        2
+        °
+      </span>
+    </li>
+    <li
+      class="flex justify-between text-gray-300"
+    >
+      <span
+        class="text-[1.4rem] lg:text-[1.6rem]"
+      >
+        Cloudiness
+      </span>
+      <span
+        class="text-white text-[1.4rem] lg:text-[1.6rem]"
+      >
+        3
+        %
+      </span>
+    </li>
+    <li
+      class="flex justify-between text-gray-300"
+    >
+      <span
+        class="text-[1.4rem] lg:text-[1.6rem]"
+      >
+        Humidity
+      </span>
+      <span
+        class="text-white text-[1.4rem] lg:text-[1.6rem]"
+      >
+        4
+        %
+      </span>
+    </li>
+    <li
+      class="flex justify-between text-gray-300"
+    >
+      <span
+        class="text-[1.4rem] lg:text-[1.6rem]"
+      >
+        Wind
+      </span>
+      <span
+        class="text-white text-[1.4rem] lg:text-[1.6rem]"
+      >
+        5
+        km/h
+      </span>
+    </li>
+  </ul>
+</section>
+`;
