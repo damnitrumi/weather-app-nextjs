@@ -19,7 +19,7 @@ Project made just as study case, no intention to profit from it.
 
 **YOU NEED TO ALLOW THE BROWSER TO GET YOUR LOCATION
 
-Deploy: https://weather-app-reactjs-omega.vercel.app/
+Deploy: https://weather-app-nextjs-snowy.vercel.app/
 
 
 This is a [Next.js](https://nextjs.org/) project bootstrapped with [`create-next-app`](https://github.com/vercel/next.js/tree/canary/packages/create-next-app).
